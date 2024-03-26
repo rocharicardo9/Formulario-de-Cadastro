@@ -1,0 +1,49 @@
+*body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue; /* Cor de fundo */
+  }
+  
+  .container {
+    width: 300px;
+    background-color: #fff; /* Cor de fundo do formulário */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
+  }
+  
+  form {
+    text-align: center; /* Centraliza os elementos dentro do formulário */
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    text-align: left;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50; /* Cor de fundo do botão */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049; /* Cor de fundo do botão ao passar o mouse */
+  }
+  
