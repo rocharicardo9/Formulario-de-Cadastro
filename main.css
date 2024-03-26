@@ -17,7 +17,14 @@
   }
   
   form {
-    text-align: center; /* Centraliza os elementos dentro do formulário */
+    form {
+        width: 50%; 
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
   }
   
   label {
