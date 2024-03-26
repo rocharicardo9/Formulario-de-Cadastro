@@ -5,15 +5,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: blue; /* Cor de fundo */
+    background-color: blue; 
   }
   
   .container {
     width: 300px;
-    background-color: #fff; /* Cor de fundo do formulário */
+    background-color: #fff; 
     border-radius: 10px;
     padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
   }
   
   form {
@@ -43,7 +43,7 @@
   button {
     width: 100%;
     padding: 10px;
-    background-color: #4CAF50; /* Cor de fundo do botão */
+    background-color: #4CAF50; 
     color: white;
     border: none;
     border-radius: 5px;
@@ -51,6 +51,6 @@
   }
   
   button:hover {
-    background-color: #45a049; /* Cor de fundo do botão ao passar o mouse */
+    background-color: #45a049; 
   }
   
